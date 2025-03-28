@@ -6,7 +6,6 @@ This repository contains all the tasks completed during my **Java Development In
 This repository includes:
 - **Simple Calculator** – Performs arithmetic operations and area calculations.
 - **Palindrome Checker** – Checks if a word or phrase is a palindrome.
-- **More tasks coming soon!**
 
 ## 🛠 Tech Stack
 - **Java**
